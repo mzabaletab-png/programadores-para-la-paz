@@ -1,0 +1,13 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Respuesta: En primer lugar, es importante establecer que aunque no parezca a primera vista,
+los tres términos propuestos en la pregunta tienen relación entre sí. El internet es una herramienta que
+se presta para fomentar la participación ciudadana, con la cual a través de publicaciones, videos,
+tendencias, entre otros, las personas tienen la oportunidad de compartir información y opiniones sobre lo
+que se está viendo. Cada persona tiene el derecho y la libertad de comentar su opinión sobre lo que ve,
+pero el peligro comienza cuando se empieza a compartir información sin verificar antes su veracidad, lo que
+puede llevar a la publicación de contenido que no es real. Herramientas como Git pueden ayudar a combatir
+este fenómeno, ya que a través de realizar trabajo técnico a través de esta herramienta, se podrían crear
+programas que ayuden a verificar la información que se comparte en internet (como por ejemplo la
+herramienta Grok en X) lo que ayudaría a que los usuarios puedan verificar de forma más sencilla lo que
+quieren publicar antes de hacerlo.
