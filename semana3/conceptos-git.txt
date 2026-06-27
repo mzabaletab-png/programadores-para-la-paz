@@ -1,0 +1,19 @@
+Repositorio: Un repositorio se define como el espacio donde se guardan,
+organizan y mantienen recursos digitales con el fin de que más adelante
+puedan ser accesibles, recuperables y compartidos a través de la red.
+Funciona mediante un código fuente (de una aplicación y de sus archivos)
+el cual se almacena, permitiendo así hacer cambios sin que se estropeen
+otros archivos. Entre las aplicaciones de repositorios más usadas se 
+encuentra GitHub justamente. 
+
+Commit: Se puede definir como una captura o un punto de control del 
+estado en que se encuentra un proyecto en el momento específico en el 
+que se hace uso de este. El commit registra los cambios realizados, 
+incluyendo modificaciones y archivos eliminados, además de un resumen o 
+historial de lo que se cambió en el proyecto.
+
+Push: En herramientas como GitHub, el push es un comando del cual se 
+hace uso cuando se quieren sincronizar y enviar los cambios de un código 
+local, en este caso del computador o de Codespace, hacia un servidor 
+remoto, que en este caso sería GitHub, con el fin de compartir el 
+trabajo.
