@@ -1,0 +1,13 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas 
+puedan construir herramientas tecnológicas propias utilizando tecnologías 
+abiertas como Node.js?
+
+Para las comunidades o iniciativas ciudadanas, es importante contar con 
+entornos de ejecución o herramientas como Node.js porque esta en 
+particular permite la interpretación del lenguaje de programación 
+JavaScript, que se considera como el lenguaje de programación estándar y 
+esencial en la web. Node.js es útil para ejecutar el backend de una 
+aplicación de manera escalable, lo que permite construir herramientas 
+tecnológicas usando un solo lenguaje de programación. Además, es conocida 
+por ser particularmente veloz en la ejecución de aplicaciones y ejecutar 
+diversas tareas a la vez, lo que mejora la fluidez de las aplicaciones.
