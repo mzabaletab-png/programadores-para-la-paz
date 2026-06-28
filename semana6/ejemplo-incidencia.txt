@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 197
+ETag: W/"c5-TfqXs/uw9bze3vwVkPOWxnfEt9Q"
+Date: Sun, 28 Jun 2026 03:52:20 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Cajero automático",
+  "descripcion": "Los usuarios de Bancolombia reportan que el cajero automático de la sucursal 22 no funciona desde hace varios días."
+}

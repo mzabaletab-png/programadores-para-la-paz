@@ -1,0 +1,16 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+### otra incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Cajero automático",
+  "descripcion": "Los usuarios de Bancolombia reportan que el cajero automático de la sucursal 22 no funciona desde hace varios días."
+}
