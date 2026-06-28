@@ -1,0 +1,17 @@
+Sistema operativo: es el software principal que actúa como puente entre el usuario y el hardware del 
+dispositivo. Su función es coordinar todos los recursos, gestionar los programas en ejecución y facilitar 
+la interacción
+
+Node.js: es un bloque de código reutilizable que ejecuta JavaScript fuera del navegador. Está diseñado 
+principalmente para el backend, resultando ideal para crear servidores web y aplicaciones escalables.
+
+Aplicación server.js: Es el punto de entrada principal de la parte trasera (backend) de una aplicación web. 
+Su función principal es iniciar el servidor, conectar la base de datos y gestionar el enrutamiento y la 
+seguridad de todas las peticiones que hacen los usuarios.
+
+Puerto: Al ser una interfaz o punto de conexión que permite enviar y recibir datos u otras señales entre 
+dispositivos, su función principal es servir de puente de comunicación entre el equipo (como una 
+computadora o consola) y sus periféricos o una red.
+
+Logs: La función del registro es documentar de forma cronológica todos los eventos, operaciones y errores 
+que ocurren dentro de un sistema informático.
