@@ -1,0 +1,37 @@
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+### prueba ruta GET
+GET http://localhost:3000/reportes
+
+### otro reporte POST 
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+### ejemplo reporte 1 POST 
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Escolar",
+  "descripcion": "Se presentan casos constantes de bullying en el grado décimo"
+}
+
+### ejemplo reporte 2 POST 
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Convivencia",
+  "descripcion": "Se presentan discusiones constantes entre los vecinos del barrio Primero de Mayo"
+}
