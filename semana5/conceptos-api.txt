@@ -1,0 +1,7 @@
+Esta ruta lo que hace es mandar una confirmación del estado en que se 
+encuentra el reporte, que en este caso se encuentra recibido. 
+
+En este contexto, en una aplicación comunitaria esta ruta podría ser 
+útil porque serviría como un medio para hacer verificaciones o 
+actualizaciones de reportes que sean enviados, donde se establecería que 
+fueron leídos o recibidos. 

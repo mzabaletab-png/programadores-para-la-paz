@@ -1,0 +1,14 @@
+http://localhost:3000 = En esta ruta la terminal genera una ventana 
+emergente con la opción de abrir una nueva pestaña. Se le da click en 
+“abrir en el navegador” para que así se abra una pestaña la cual es una 
+página en blanco que dice en la parte superior izquierda “Servidor activo”. 
+
+http://localhost:3000/saludo = En esta ruta la terminal genera una 
+ventana emergente con la opción de abrir una nueva pestaña. Se le da 
+click en “abrir en el navegador” para que así se abra una pestaña la cual 
+es una página en blanco que dice en la parte superior izquierda “Hola comunidad”. 
+
+http://localhost:3000/mensaje/juan = En esta ruta la terminal genera una 
+ventana emergente con la opción de abrir una nueva pestaña. Se le da click 
+en “abrir en el navegador” para que así se abra una pestaña la cual es 
+una página en blanco que dice en la parte superior izquierda “Hola juan”. 

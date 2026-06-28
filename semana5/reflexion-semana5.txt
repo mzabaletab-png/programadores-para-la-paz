@@ -1,0 +1,14 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, 
+reportes o alertas de manera organizada?
+
+Las APIs son herramientas prácticas para que las comunidades puedan 
+compartir todo tipo de información de forma ordenada porque permite que 
+dos aplicaciones trabajen en conjunto, funcionando como un puente que 
+recibe la solicitud de un programa y utiliza otro para aportar una 
+respuesta o información. Esto es útil porque las comunidades no se 
+limitan a una sola aplicación, sino que las APIs toman la información 
+necesaria de otra aplicación para dar una respuesta efectiva sobre lo 
+que se necesita. Un ejemplo de esto podría ser cuando estamos creando una 
+cuenta en alguna red social usando un dispositivo que tiene nuestra 
+información, entonces ahí la API redirecciona nuestros datos para que 
+puedan ser usados en la red social donde estamos creando la cuenta.
