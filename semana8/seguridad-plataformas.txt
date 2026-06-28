@@ -1,0 +1,5 @@
+Exigir contraseñas seguras
+Toda la información confidencial debe estar cifrada
+Mantener el software, complementos y servidores siempre actualizados
+Establecer y publicar directrices estrictas sobre el comportamiento aceptable
+Asignar permisos estrictos de acuerdo al rol del usuario

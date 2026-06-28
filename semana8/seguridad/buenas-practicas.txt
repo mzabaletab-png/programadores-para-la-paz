@@ -1,0 +1,9 @@
+Al crear una contraseña, no añadir a esta información sensible como 
+nombres y apellidos propios o número del documento de identidad.
+
+Al utilizar redes de internet públicas, no ingresar datos personales 
+como contraseñas.
+
+Hacer copias de seguridad periódicas de los archivos que contenga el 
+dispositivo con el fin de que la información no se pierda en caso de 
+robo o extravío.
