@@ -1,0 +1,12 @@
+El login en una aplicación es el proceso que permite acceder de forma 
+segura a cuentas y servicios en línea. Implica ingresar un nombre de 
+usuario o correo electrónico junto con una contraseña única. 
+
+Algunas rutas deben protegerse con el fin de restringir el acceso a 
+usuarios no autorizados, así evitando el robo de datos sensibles, 
+previniendo la manipulación de bases de datos y asegurando que cada 
+usuario solo vea o gestione la información que le corresponde según su rol.
+
+No se debe exponer públicamente ningún dato que comprometa la identidad, 
+seguridad o privacidad del usuario, lo cual incluye información personal 
+identificable y documentos confidenciales.

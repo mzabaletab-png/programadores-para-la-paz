@@ -1,0 +1,26 @@
+Entidad: Usuario
+
+Campos principales:
+id
+nombre
+correo
+fecha_registro
+
+Propósito:
+ Almacenar la información básica de las personas que se registran en la 
+ plataforma para poder identificar a los participantes de la comunidad.
+
+
+Entidad: Publicación
+
+Campos principales:
+id
+usuario_id
+titulo
+contenido
+fecha_publicacion
+
+Propósito:
+ Guardar las publicaciones o mensajes que los usuarios comparten dentro 
+ de la plataforma comunitaria, permitiendo la interacción y difusión de 
+ información.

@@ -1,0 +1,15 @@
+La interfaz tendría una sección principal para crear una nueva causa 
+comunitaria, donde el usuario podrá ingresar el título y la descripción 
+mediante un formulario sencillo.
+
+También incluiría una vista de causas disponibles, mostradas en forma de 
+lista o tarjetas, donde cada causa se pueda leer fácilmente.
+
+Cada causa tendría un botón de “Apoyar”, que permita a los usuarios 
+brindar su apoyo con un solo clic.
+
+Además, cada causa mostraría un contador de apoyos, indicando cuántas 
+personas han apoyado esa iniciativa.
+
+La interfaz debe ser clara, intuitiva y fácil de usar, evitando mostrar 
+información privada como datos personales de los usuarios.
