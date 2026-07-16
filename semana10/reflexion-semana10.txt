@@ -1,0 +1,14 @@
+Considero que todas esas herramientas (metodologías ágiles, automatización, 
+Telegram, etc.) son útiles para organizar de manera más eficiente los 
+procesos de participación ciudadana de una comunidad porque estas 
+trabajan en conjunto para administrar en una primera instancia aquella 
+información que no requiere revisión humana exhaustiva. Al organizarse 
+de manera eficaz y mediante filtros (como palabras claves o fecha de 
+registro) se consigue automatizar en primer lugar los datos necesarios 
+para que ingresen al sistema, donde son almacenados, luego, herramientas 
+como Telegram permiten mandar mensajes predeterminados tanto a los 
+usuarios como a los miembros del equipo los cuales dan aviso de una 
+nueva incidencia que se registró. Una vez esa información ingresa, ya 
+los equipos encargados trabajan para dar una respuesta, pero son todas 
+esas herramientas que se mencionaron anteriormente las que ayudan a 
+mejorar el flujo, aportando rapidez y prioridad en caso de necesitarse.

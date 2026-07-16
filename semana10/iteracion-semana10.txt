@@ -1,0 +1,29 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Respuesta: Personalmente, yo realizaría primero estas dos tareas en el 
+orden en el que se encuentran respectivamente:
+
+[PRIORIDAD ALTA] Como ciudadano quiero registrar una incidencia adjuntando 
+fotos y la ubicación del lugar de los hechos para dejar evidencias de 
+las basuras acumuladas en el parque de la comunidad.
+
+[PRIORIDAD ALTA] Como miembro del equipo de la veeduría quiero consultar 
+los reportes realizados para filtrar aquellos que aún no reciben respuesta. 
+
+¿Por qué son las más importantes?
+
+Respuesta: Todas las tareas del backlog son importantes, por lo que no 
+se debe dejar ninguna sin atender. Sin embargo, hay unas que tienen 
+orden de prioridad porque es un usuario el que las suministra esperando 
+una pronta respuesta, por lo cual deben tratarse lo antes posible. Por 
+otra parte, como miembro de equipo, es vital tener las incidencias 
+organizadas por fecha y qué tan prioritarias son, pero también darle 
+una atención inmediata a aquellas que se suministraron hace mucho tiempo 
+y no se les ha dado respuesta. 
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Respuesta: Para mi, que una tarea esté terminada significa que a nivel 
+interno se cumplieron unos requisitos que establecen que esta fue 
+completada con éxito, además de que esta quede con su registro en el 
+sistema (o en Git) de que se finalizó para que no quedé abierta o en el aire.

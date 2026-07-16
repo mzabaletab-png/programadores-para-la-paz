@@ -1,0 +1,10 @@
+Evento: nuevo usuario registrado en la plataforma.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Se ha registrado un nuevo usuario en el sistema. Verificar su 
+información.”
+
+Información que no debe enviarse: contraseñas, correos electrónicos 
+completos, números de identificación, direcciones personales, números 
+de teléfono ni cualquier dato sensible del usuario.
