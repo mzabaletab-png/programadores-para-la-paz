@@ -1,0 +1,22 @@
+Entidad: Causa
+Campos:
+id
+título
+descripción
+fecha
+
+Propósito: Esta entidad sirve para almacenar la información de las causas 
+comunitarias que se crean en la plataforma, permitiendo que los usuarios 
+las visualicen, comprendan su objetivo y decidan apoyarlas.
+
+
+Entidad: Apoyo
+Campos:
+id
+causa_id
+nombre
+fecha
+
+Propósito: Esta entidad se utiliza para registrar los apoyos que recibe 
+cada causa, permitiendo llevar un control de la participación de los 
+usuarios y contabilizar cuántas personas apoyan cada iniciativa.

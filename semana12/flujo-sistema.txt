@@ -1,0 +1,7 @@
+1- Un ciudadano publica una causa en el sistema.
+2- La causa se guarda y queda registrada en la base de datos.
+3- El sistema genera un número de radicado para hacerle seguimiento a la causa.
+4- Otros ciudadanos pueden mostrar apoyo.
+5- El sistema hace un conteo de los apoyos.
+6- En caso de pedirse, el sistema genera un documento PDF con la 
+información de la petición.
